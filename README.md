@@ -5,13 +5,21 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<a href="https://medium.com/p/af39c28bcf31">Currying in Javascript</a><br/>
+<a href="https://medium.com/p/2e1001d85d90">Enumerability of Properties of an Object in Javascript</a>
 <!-- BLOG-POST-LIST:END -->
 ![](https://komarev.com/ghpvc/?username=Radheshyam1234&color=green)
+
+<h3 align="left">Coding Profile </h3>
+<a href="https://auth.geeksforgeeks.org/user/radheshyamnitj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="radheshyamnitj" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@radheshyamnitj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@radheshyamnitj" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/radheshyamnitj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="radheshyamnitj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/radheshyam-kumar-4738191aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radheshyam-kumar-4738191aa/" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
