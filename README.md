@@ -6,7 +6,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <a href="https://medium.com/p/af39c28bcf31">Currying in Javascript</a><br/>
-<a href="https://medium.com/p/2e1001d85d90">Enumerability of Properties of an Object in Javascript</a>
+<a href="https://medium.com/p/2e1001d85d90">Enumerability of Properties of an Object in Javascript</a><br/>
+<a href="https://medium.com/p/aaa65e564051">Scripts : async and defer in Javascript</a>
 <!-- BLOG-POST-LIST:END -->
 ![](https://komarev.com/ghpvc/?username=Radheshyam1234&color=green)
 
